@@ -230,6 +230,16 @@ ul#nav li.current a { color: #F06000; }
    font-size: 20px;
 }
 
+//This is for the button 2 for certification link.
+#about .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#about .download .button i {
+   margin-right: 25px;
+   font-size: 20px;
+}
+
 
 /* ------------------------------------------------------------------ */
 /* d. Resume Section
